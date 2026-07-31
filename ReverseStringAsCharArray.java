@@ -28,3 +28,15 @@ class Solution {
 }
 // Time Complexity: O(n)
 // Space Complexity: O(1)
+
+class Solution {
+    public void reverseString(char[] s) {
+        String str=new String(s);
+        str=new StringBuilder(str).reverse().toString();
+        for(int i=0;i<str.length();i++){
+            s[i]=str.charAt(i);
+        }
+    }
+// }
+// Time Complexity (TC): O(n)
+// Space Complexity (SC): O(n)
