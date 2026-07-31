@@ -60,7 +60,7 @@ class Solution {
     }
 }
 
-// You can avoid the second break by returning immediately when you find the answe
+// You can avoid the second break by returning immediately when you find the answer
 
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
