@@ -44,3 +44,5 @@ class Solution {
     }
 }
 // Avoids unnecessary rewrites
+// Time Complexity (TC): O(n)
+// Space Complexity (SC): O(1)
