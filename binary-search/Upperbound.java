@@ -1,3 +1,4 @@
+// GFG Practice
 // Implement Upper Bound
 
 // The upper bound of a number is defined as the smallest index in the sorted array where the element is greater than the given number.
